@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    
+    background-size:1365px 800px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.fst-sec{
+    background-color: rgba(255, 255, 0, 0.589);
+    width: 100%;
+    overflow: hidden;
+    margin-top:50px ;
+    }
+.intro h1{ 
+    font-size: 35px;
+    color:black;
+}
+.intro p{
+    font-size: 23px;
+    color:black;
+    padding-top: 0; 
+}
+.intro{
+    width: 40%;
+    float: left; 
+    margin-left: 5%;
+    padding-left: 2%; 
+}
+.intro button{
+    font-weight: bold;
+    background-color:orange;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 0;
+}
+.intro img{
+    height: 300px;
+   margin-left: 150px;
+   margin-bottom: 30px;
+   padding-top: 9px;
+}
+/* 2nd sec start--------------------------------------------------------------------------- */
+
+ .wok-p{  
+    background-color: rgba(255, 255, 0, 0.589);
+    color: black;
+    width: 100%;
+    overflow: hidden;
+    margin-top:50px ;
+    }
+    
+.work{
+    width: 40%;
+    float: left; 
+    margin-left: 3%;
+    padding-left: 2%; ;
+}
+.work img{
+        width: 60%;
+        margin-left: 90px;
+    }
+    /* 3rd sec start--------------------------------------------------------------------------- */
+
+.serves{padding-top: 0;
+    margin-top: 0;
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+
+}
+.third-sec{
+    background-color: rgba(255, 255, 0, 0.589); 
+    height:370px;
+}
+.serv{
+    width: 280px;
+    height: 250px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.904);
+    color: rgba(255, 255, 0, 0.829);
+    margin-left: 115px;
+    margin-top: 50px;
+    float: left;
+    text-align: center;
+    border-radius: 10px;
+}
+.serv h1{
+    color: white;
+}
+.serv button{
+    color:black;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+
+   /* 4th sec start--------------------------------------------------------------------------- */
+   .quali{
+       width: 350px;
+       float: right;
+       padding-top: 30px;
+       
+   }
+   
